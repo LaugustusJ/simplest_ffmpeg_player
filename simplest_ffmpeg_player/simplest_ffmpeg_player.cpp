@@ -17,6 +17,8 @@
  * This software is a simplest video player based on FFmpeg.
  * Suitable for beginner of FFmpeg.
  *
+ * 对应的文章：https://blog.csdn.net/leixiaohua1020/article/details/38868499
+ *
  */
 
 
